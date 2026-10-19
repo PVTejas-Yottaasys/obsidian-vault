@@ -1,0 +1,3 @@
+
+
+Normalize brightness for glare

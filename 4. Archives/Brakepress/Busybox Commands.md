@@ -1,0 +1,1 @@
+`sudo busybox devmem 0x02430070 w 0x040 && sudo busybox devmem 0x02434040 w 0x040 && sudo busybox devmem 0x024340a0 w 0x040 && sudo busybox devmem 0x0243d048 w 0x040`
