@@ -28,4 +28,6 @@
 
 
 Updates made so far:
-- Line detection updates - this is 
+- Line detection updates: false rejects went from 17% to 5% after this change
+  Gains came from having a lot of production data to improve our models
+- 
