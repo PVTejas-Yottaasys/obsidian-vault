@@ -32,3 +32,4 @@ Updates made so far:
   Gains came from having a lot of production data to improve our models
 - Some UI improvements (Jexin can provide a detailed list. I remember feedback button, self-hosted dashboard)
 Updates we will deploy soon:
+- Stopper position: GE39
