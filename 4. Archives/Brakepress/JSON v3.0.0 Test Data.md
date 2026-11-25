@@ -30,4 +30,5 @@
 Updates made so far:
 - Line detection updates: false rejects went from 17% to 5% after this change
   Gains came from having a lot of production data to improve our models
-- 
+- Some UI improvements (Jexin can provide a detailed list. I remember feedback button, self-hosted dashboard)
+Updates we will deploy soon:
