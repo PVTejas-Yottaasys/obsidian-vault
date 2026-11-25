@@ -27,5 +27,5 @@
 - P26M00ASWM - 21842
 
 
-- New JSON format is finalised, contains lot more detailed information about the edge of a frame
-- Updating 
+- JSON format updated
+- profiles module (our internal representation of the frame, handles), measurement module ()
