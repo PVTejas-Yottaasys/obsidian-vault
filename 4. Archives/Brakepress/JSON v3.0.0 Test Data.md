@@ -33,4 +33,3 @@ Changes we are making:
 
 Challenge is that profile steps in old JSON could be treated mostly the same (except first and last), but profile steps in new JSON are a lot more context dependent.  
 Data format issues are sorted so there are no crashes, but there are functions in the postprocessing whose behaviour needs to be updated for accuracy.
-
