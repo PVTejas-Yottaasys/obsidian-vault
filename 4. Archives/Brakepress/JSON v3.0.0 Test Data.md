@@ -28,3 +28,4 @@
 
 
 - New JSON format is finalised, contains lot more detailed information about the edge of a frame
+- Updating 
