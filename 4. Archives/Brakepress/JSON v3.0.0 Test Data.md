@@ -27,10 +27,11 @@
 - P26M00ASWM - 21842
 
 Initial work was done to support M1, C2, MK9 and OM42 frames
+The solution was robust enough to 
 Updates made so far:
-- Fixed some crashes, improved 
+- Fixed some crashes, improved stability
 - Line detection updates: false rejects went from 17% to 5% after this change
   Gains came from having a lot of production data to improve our models
 - Some UI improvements (Jexin can provide a detailed list. I remember feedback button, self-hosted dashboard)
 Updates we will deploy soon:
-- Stopper position: GE39 frames exposed a f
+- Stopper position: NM379 frames exposed a flawed assumption in our stopper reference detection.
