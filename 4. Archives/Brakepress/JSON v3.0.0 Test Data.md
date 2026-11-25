@@ -27,5 +27,6 @@
 - P26M00ASWM - 21842
 
 
-- JSON format updated
-- profiles module (our internal representation of the frame, handles), measurement module ()
+Changes we are making:
+- profiles module - handles internal representation of the frame, performs some preprocessing on the JSON
+- measurement module - 
